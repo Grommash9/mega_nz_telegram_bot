@@ -9,5 +9,5 @@ files_path = 'D:\python\mega_nz_bot\files'
 
 mega_account_details = {
     'login': 'please enter mega email here',
-    'password': 'please enter password email here',
+    'password': 'please enter  password email here',
 }
